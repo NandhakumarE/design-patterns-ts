@@ -1,0 +1,63 @@
+<mxfile host="65bd71144e">
+    <diagram id="80D3jwlQyKl_o9lqxPA4" name="Page-1">
+        <mxGraphModel dx="865" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="13" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;verticalAlign=middle;strokeColor=#444ED6;dashed=1;" parent="1" source="2" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="370" y="270" as="sourcePoint"/>
+                        <mxPoint x="122" y="290" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="14" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeColor=#444ED6;" parent="1" source="2" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="340" y="290" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2" value="&lt;h4&gt;&lt;font color=&quot;#444ed6&quot;&gt;HouseBuilderInterface&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;fillColor=#ECEDFB;strokeColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="150" y="130" width="146" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#444ED6;" parent="1" source="3" target="17" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&lt;p style=&quot;line-height: 0%;&quot;&gt;&lt;/p&gt;&lt;h4 style=&quot;line-height: 0%;&quot;&gt;&amp;nbsp;&lt;font color=&quot;#444ed6&quot;&gt;HouseBuilder&lt;/font&gt;&lt;/h4&gt;&lt;font color=&quot;#444ed6&quot;&gt;(Professional)&lt;/font&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ECEDFB;strokeColor=none;align=center;verticalAlign=middle;" parent="1" vertex="1">
+                    <mxGeometry x="60" y="290" width="130" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="&lt;h4 style=&quot;line-height: 0%;&quot;&gt;&lt;font color=&quot;#444ed6&quot;&gt;ManualBuilder&lt;/font&gt;&lt;/h4&gt;&lt;font color=&quot;#444ed6&quot;&gt;(non - professional)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ECEDFB;strokeColor=none;verticalAlign=middle;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="290" width="130" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5" target="2" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="" style="edgeStyle=none;html=1;strokeColor=#444ED6;" parent="1" source="5" target="2" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="&lt;h4&gt;&lt;font color=&quot;#d6b656&quot;&gt;House Director&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="380" y="135" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="&lt;h4&gt;&lt;font color=&quot;#82b366&quot;&gt;Client&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="375" y="60" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="&lt;h4&gt;&lt;font color=&quot;#444ed6&quot;&gt;&amp;nbsp;House&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ECEDFB;strokeColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="63" y="380" width="124" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="&lt;font color=&quot;#444ed6&quot;&gt;uses&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="310" y="130" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="&lt;font color=&quot;#444ed6&quot;&gt;Implements&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-45;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="215" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="&lt;font color=&quot;#444ed6&quot;&gt;Implements&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=45;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="225" width="80" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="" style="endArrow=classic;html=1;strokeColor=#444ED6;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="11" target="5">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="470" y="70" as="sourcePoint"/>
+                        <mxPoint x="510" y="30" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
