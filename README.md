@@ -66,4 +66,4 @@ To run an example:
    ```
   
 ### Connect With Me
-💼 [LinkedIn - Nandhakumar Eswaran](www.linkedin.com/in/nandhakumar-eswaran-dev)
+💼 [LinkedIn - Nandhakumar Eswaran](https://www.linkedin.com/in/nandhakumar-eswaran-dev)
